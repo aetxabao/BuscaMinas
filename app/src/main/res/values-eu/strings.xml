@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Mina Garbitzailea</string>
     <string name="app_title">Mina Garbitzailea</string>
+    <string name="level_title">Maila gainditua</string>
+    <string name="press_to_continue">zanpatu jarraitzeko</string>
+    <string name="game_over_title">BUKATU DA</string>
+    <string name="press_to_return">zanpatu itzultzeko</string>
 </resources>
